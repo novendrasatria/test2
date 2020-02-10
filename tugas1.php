@@ -6,6 +6,7 @@ function __construct ($model){
 }
 function model(){
 echo "Jam ini memiliki  model". $this->model."<br>";
+//Melakukan perubahan dengan memberikan komen
 }
 }
 ?>	
